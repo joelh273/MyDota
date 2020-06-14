@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDota</string>
+    <string name="heroes">Heroes</string>
+    <string name="prodota">ProDota</string>
+</resources>

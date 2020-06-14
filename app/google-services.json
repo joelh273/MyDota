@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985986413546",
+    "firebase_url": "https://mydota-e5c32.firebaseio.com",
+    "project_id": "mydota-e5c32",
+    "storage_bucket": "mydota-e5c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985986413546:android:a6193c9a2d27c8bc15f893",
+        "android_client_info": {
+          "package_name": "com.example.dotaheroes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985986413546-udlpeco8ucnge80kkharsrkin449dmpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dotaheroes",
+            "certificate_hash": "1eca73382b5f8d497db474e3c5538015bc111ca4"
+          }
+        },
+        {
+          "client_id": "985986413546-kq3g4tiu3b1mev2k3geese08lso4jgr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqhJhfRhJG2K-dNn4_VvBYnBH9yt_69M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985986413546-kq3g4tiu3b1mev2k3geese08lso4jgr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
